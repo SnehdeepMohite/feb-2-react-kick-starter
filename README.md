@@ -1,3 +1,21 @@
+Details ReactJS Kickstarter. A workshop.
+It's a one-day FREE workshop.
+OPEN TO ALL
+Pre-requisites:
+1. install node.js
+2. Install create-react-app
+
+Topics to be covered
+# Introduction to ReactJS
+# Thinking in components
+# Lifecycle
+# Introductions to ES6, JSX, State
+# Creating your first react app
+# Understanding folder structure.
+# Using state to show/hide a component
+# Passing data b/w components
+# Material design with ReactJS
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
