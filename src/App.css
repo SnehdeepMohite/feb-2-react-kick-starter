@@ -30,3 +30,7 @@
     transform: rotate(360deg);
   }
 }
+
+.my-background {
+  background-color: lightslategray !important;
+}
